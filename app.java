@@ -7,6 +7,6 @@ public class Calculator {
         for (i = 1; i <= num; i++) {
             fact *= i;
         }
-        System.out.println("Factorial of " + num + " is : " + fact);
+        System.out.println("Fact of " + num + " is : " + fact);
   }
 }
